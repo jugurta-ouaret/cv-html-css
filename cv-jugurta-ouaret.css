@@ -1,0 +1,33 @@
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38rem;
+    background-image: url(images/5667001.jpg);
+    font-family: 'Oswald', Verdana;
+}
+
+.p2p img{
+    border-radius: 50%;
+    width: 75%;
+}
+
+h1{
+    text-shadow: 20px 6px 20px rgba(0, 0, 0, 0.704);
+    font-size: 3rcap;
+}
+h2{
+    text-shadow: 15px 4px 15px rgba(0, 0, 0, 0.704);
+    font-size: 2.5rcap;
+}
+.flex1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h3 {
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+}
